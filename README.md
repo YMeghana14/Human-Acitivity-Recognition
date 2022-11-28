@@ -1,4 +1,4 @@
-# Human-Acitivity-Recognition
+# Human-Activity-Recognition
 By using human engineered 7351 feature data, our goal is to predict one of the six activities that a Smartphone user is performing at that 2.56 Seconds time window
 
 # Dataset can be downloaded from 
